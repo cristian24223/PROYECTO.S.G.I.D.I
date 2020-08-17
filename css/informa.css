@@ -1,0 +1,22 @@
+#informa{
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+#informa .contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 50px;
+   right: 50px;
+}
+.infor-seg {
+    margin: 28px;
+}
+.info-seg img{
+    width: 100%;
+    max-width: 100px;
+    border-radius: 50%;
+    border: 7px solid #fff ;
+}

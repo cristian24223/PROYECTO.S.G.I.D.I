@@ -1,0 +1,10 @@
+{
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.port": 5502,
+    "workbench.preferredLightColorTheme": "Default Dark+",
+    "window.autoDetectColorScheme": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.perEditorGroup": true,
+    "workbench.editor.revealIfOpen": true
+}

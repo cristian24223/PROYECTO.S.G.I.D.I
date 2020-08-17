@@ -1,0 +1,36 @@
+#oficinas h3 {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 22px;
+    
+}
+
+#oficinas h4{
+    text-align: center;
+    color: #fff;
+}
+#oficinas h6{
+    text-align: center;
+    color: #fff;
+}
+#oficinas .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+#oficinas article {
+    margin: 15px;
+}
+#oficinas img{
+    width: 100%;
+    max-width: 280px;
+    border: 1px solid #000000;
+   
+}
+
+#oficinas .contenedor{
+    background-color: royalblue;
+
+}
+
